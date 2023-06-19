@@ -8,6 +8,6 @@
      i. products if they become available
      ii. their bids were successful.
      iii. Someone else bids over their bid.
- 5. Users can set up auto-bid functionality where the system will auto-bid for them in the background.
- 6. Admin users can control user accounts and the bids.
+ 6. Users can set up auto-bid functionality where the system will auto-bid for them in the background.
+ 7. Admin users can control user accounts and the bids.
     
